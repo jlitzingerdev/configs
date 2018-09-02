@@ -1,0 +1,11 @@
+[user]
+	name = Jason Litzinger
+	email = jlitzingerdev@gmail.com
+[sendemail]
+	smtpserver = smtp.gmail.com
+	smtpserverport = 587
+	smtpencryption = tls
+	smtpuser = jlitzingerdev@gmail.com
+[core]
+	editor = vim
+	abbrev = 12
