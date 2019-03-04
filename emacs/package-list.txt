@@ -1,0 +1,13 @@
+add-node-modules-path
+ag
+editorconfig
+flycheck-haskell
+flycheck
+go-mode
+haskell-mode
+js2-mode
+magit
+nvm
+prettier-js
+typescript-mode
+use-package
